@@ -5,7 +5,7 @@ function loadPage() {
 
 function run() {
 
-    alert(Factorial(4));
+    alert(Factorial(6));
 
 }
 
